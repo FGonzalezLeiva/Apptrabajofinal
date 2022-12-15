@@ -14,7 +14,8 @@ class HeroOlive extends Component {
                                     <p>Te invitamos a innovar con la forma de cómo tomar la asistencia de una manera moderna, sencilla y precisa. Utiliza AsistenciAPP</p>
                                     <div className="banner-buttons">
                                         {/*<button type="button"  className="button-default button-olive">Download</button>*/}
-                                        <a className="button-default button-white" href="https://dw.uptodown.com/dwn/2FJv7ZlDsBnjDW7ByrVykMhSlIeQbCLR0659U7GuYefxaXXj8VXwppNbQ0w3CPdOwbMF7oegE73YN3VScBeosqY_vqB3A38h6c-gy306D1zbjotn3oimn2pLgYJywtdo/6nta0J2aPLpC566XsQ5gMINlK6UFWvD4LVNoJvMLy2Bw2E8dPBaQ4xhbWhak5vlodSd0xRjcoopFhnkd8c8v9-lJrxTyY053CS5Y29TMqOYdQk22pGmVsiy1UFtits8s/dh48zMdFVGOaU_f7QIG66L7Y0BurDmtdyTY79iASStanNtQ0vxfB1EmVfEiKj-qBp3pXpSho7YDtM_Zl6TzbVhAoF5KrJoFmnbxKd3LZw0jpqvr3ODOv2SL_ivgFlmaT/G78k5WC7OA-cUkk-jbQSvg==/" role="button">Descargar</a>
+                                        <a className="button-default button-white" href="app-release.apk" role="button">Descargar</a>
+                                        {/* <a className="button-default button-white" href="https://dw.uptodown.com/dwn/2FJv7ZlDsBnjDW7ByrVykMhSlIeQbCLR0659U7GuYefxaXXj8VXwppNbQ0w3CPdOwbMF7oegE73YN3VScBeosqY_vqB3A38h6c-gy306D1zbjotn3oimn2pLgYJywtdo/6nta0J2aPLpC566XsQ5gMINlK6UFWvD4LVNoJvMLy2Bw2E8dPBaQ4xhbWhak5vlodSd0xRjcoopFhnkd8c8v9-lJrxTyY053CS5Y29TMqOYdQk22pGmVsiy1UFtits8s/dh48zMdFVGOaU_f7QIG66L7Y0BurDmtdyTY79iASStanNtQ0vxfB1EmVfEiKj-qBp3pXpSho7YDtM_Zl6TzbVhAoF5KrJoFmnbxKd3LZw0jpqvr3ODOv2SL_ivgFlmaT/G78k5WC7OA-cUkk-jbQSvg==/" role="button">Descargar</a> */}
                                     </div>
                                 </div>
                             </div>
